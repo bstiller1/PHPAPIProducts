@@ -14,7 +14,7 @@
 ## MVC (Model View Controller)
 
 **Model**: `/mvc/models/User.php, /models/Product.php` <br>
-**View**: `/views/user_profile.php`<br>
-**Controller**: `/controllers/UserController.php`
+**View**: `/mvc/views/user_profile.php`<br>
+**Controller**: `/mvc/controllers/UserController.php`
 
 \*_hidden config files_: `Database.php, .htaccess`
