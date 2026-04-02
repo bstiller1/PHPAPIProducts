@@ -19,7 +19,7 @@
 
 ## Database Schema <br>
 
-schema.sql
+`schema.sql`
 
 ## Hidden Config Files <br>
 
