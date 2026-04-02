@@ -17,4 +17,10 @@
 **View**: `/mvc/views/user_profile.php`<br>
 **Controller**: `/mvc/controllers/UserController.php`
 
-\*_hidden config files_: `Database.php, .htaccess`
+## Database Schema <br>
+
+schema.sql
+
+## Hidden Config Files <br>
+
+`Database.php, .htaccess`
