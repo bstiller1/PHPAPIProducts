@@ -1,0 +1,20 @@
+# PHP API CRUD APP
+
+## Starting point:
+
+`public/index.php`
+
+## CRUD Operations
+
+1. Create Product: `create.php`
+2. Read Products: `read.php`
+3. Update Product: `update.php`
+4. Delete Product: `delete.php`
+
+## MVC (Model View Controller)
+
+**Model**: `/mvc/models/User.php, /models/Product.php` <br>
+**View**: `/views/user_profile.php`<br>
+**Controller**: `/controllers/UserController.php`
+
+\*_hidden config files_: `Database.php, .htaccess`
